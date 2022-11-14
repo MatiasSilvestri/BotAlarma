@@ -1,0 +1,7 @@
+charset-normalizer==2.0.12
+distlib==0.3.6     
+filelock==3.8.0    
+idna==3.3
+platformdirs==2.5.3
+requests==2.27.1   
+virtualenv==20.16.6
